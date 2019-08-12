@@ -1,11 +1,11 @@
 {
-  "name": "ant-design-pro-site",
+  "name": "sortd-site",
   "version": "2.3.0",
-  "description": "site of Ant Design Pro",
-  "homepage": "http://pro.ant.design/",
+  "description": "Sortd Site",
+  "homepage": "http://sortd.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/ant-design-pro-site"
+    "url": "https://github.com/scotty595/scotty595.github.io"
   },
   "license": "MIT",
   "scripts": {
@@ -100,5 +100,5 @@
     "stylelint": "^9.4.0",
     "typescript": "^3.5.2"
   },
-  "title": "Ant Design Pro"
+  "title": "Sortd"
 }
